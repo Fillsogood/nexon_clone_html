@@ -1,0 +1,68 @@
+#footer{
+    background-color: #222426;
+}
+#top_menu_footer{
+    margin: 0;
+    height: 50px;
+}
+#top_menu_a{
+    text-align: center;
+    text-decoration: none;
+    position: relative;
+    top: 15px;
+    left: 40px;
+    color: white;
+    font-size: 12px;
+}
+#bottom_menu_a{
+    color: rgba(248,249,250,.7);
+    text-decoration: none;
+    font-size: 12px;
+}
+hr{
+    background: rgba(248,249,250,.7);
+    margin: 0;
+    border: 0;
+    height: 1px;
+}
+#ul_1{
+    list-style-type: none;
+    padding: 30px 40px 10px 40px;
+    margin: 0;
+}
+#ul_2{
+    list-style-type: none;
+    padding: 10px 40px 10px 40px;
+    margin: 0;
+}
+li{
+    float: left;
+}
+#footer_email_p{
+    color: rgba(248,249,250,.3);
+    position: relative;
+    left: 40px;
+    font-size: 10px;
+}
+#logo{
+    margin: 0;
+    padding: 10px 30px 30px 30px;
+}
+#icon_youtube{
+    float: right;
+    position: relative;
+    top: 12px;
+    right: 30px;
+}
+#icon_twiter{
+    float: right;
+    position: relative;
+    top: 14px;
+    right: 30px;
+}
+#icon_facebook{
+    float: right; 
+    position: relative;
+    top: 10px;  
+    right: 30px; 
+}
