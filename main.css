@@ -1,0 +1,14 @@
+#banner{
+    background-color: black;
+    width: 100%;
+    
+}
+#test{
+    background-color: white;
+
+}
+#container{
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+}

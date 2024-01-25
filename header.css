@@ -1,0 +1,16 @@
+.header_m{
+    flex: 1;
+}
+.header_n{
+    flex: 2;
+}
+.header_lj{
+    flex: 1;
+}
+.h_l,.h_j{
+    float: right;
+}
+#menu_logo{
+    display: flex;
+    text-align: center;
+}
